@@ -1,0 +1,15 @@
+[
+	 
+		{ip: "192.95.39.46", domain: "s1.gcloud.bidbex.com", name: "CA public Montreal 01", serverName: "1", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "167.114.112.102", domain: "s28.gcloud.bidbex.com", name: "CA public Montreal 02", serverName: "2", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "149.202.98.184", domain: "s37.gcloud.bidbex.com", name: "DE public Munich 01", serverName: "3", open: true, load: 0, country: "de", group: "1", flag: "de"},
+		{ip: "192.99.41.188", domain: "s2.gcloud.bidbex.com", name: "CA public Montreal 03", serverName: "4", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "167.114.130.126", domain: "s29.gcloud.bidbex.com", name: "CA public Montreal 04", serverName: "5", open: true, load: 0, country: "ca", group: "1", flag: "ca"},		
+		{ip: "192.95.16.215", domain: "s3.gcloud.bidbex.com", name: "CA public Montreal 05", serverName: "6", open: true, load: 0, country: "us", group: "1", flag: "ca"},
+		{ip: "167.114.170.74", domain: "s30.gcloud.bidbex.com", name: "CA public Montreal 06", serverName: "7", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "149.202.98.185", domain: "s38.gcloud.bidbex.com", name: "DE public Munich 02", serverName: "3", open: true, load: 0, country: "de", group: "1", flag: "de"},
+		{ip: "192.95.4.127", domain: "s11.gcloud.bidbex.com", name: "CA login Montreal 01", serverName: "8", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "192.95.12.102", domain: "s34.gcloud.bidbex.com", name: "CA login Montreal 02", serverName: "9", open: true, load: 0, country: "ca", group: "1", flag: "ca"},
+		{ip: "149.202.98.229", domain: "s43.gcloud.bidbex.com", name: "DE login Munich 01", serverName: "10", open: true, load: 0, country: "de", group: "1", flag: "de"}
+		
+	];
