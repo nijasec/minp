@@ -13,3 +13,4 @@
 		{ip: "149.202.98.229", domain: "s43.gcloud.bidbex.com", name: "DE login Munich 01", serverName: "10", open: true, load: 0, country: "de", group: "1", flag: "de"}
 		
 	];
+*testuser_chromeapp_3_Fri Nov 20 2020 10:47:57 GMT+0400 (Gulf Standard Time)24
